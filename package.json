@@ -1,0 +1,25 @@
+{
+  "name": "acquisitionsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucia-builds/acquisitionsApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type":"module",
+  "bugs": {
+    "url": "https://github.com/lucia-builds/acquisitionsApp/issues"
+  },
+  "homepage": "https://github.com/lucia-builds/acquisitionsApp#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
